@@ -41,9 +41,17 @@ aws-website-hosting/
 6. Access the hosted site using the S3 website endpoint.
 
 
+Below are attached screenshots of the demo
 
+![Image](https://github.com/user-attachments/assets/41500ed9-1868-45ae-af7d-241cad1f3c9a)
 
-(Add screenshots of your AWS S3 console or hosted portfolio site here)  
+![Image](https://github.com/user-attachments/assets/c6e0dd51-a8a8-4d54-9681-749b151f033c)
+
+![Image](https://github.com/user-attachments/assets/f2a371f9-fc02-42f2-be19-0e2077b9caa1)
+
+![Image](https://github.com/user-attachments/assets/48b046fd-ddbf-4df4-8c87-daf89e23eeef)
+
+![Image](https://github.com/user-attachments/assets/b5e61d15-3c92-40a0-9ab2-a430f19be6d3)  
 
 
 
